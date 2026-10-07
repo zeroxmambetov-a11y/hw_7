@@ -85,7 +85,7 @@ class _RegistrationPageState extends State<RegistrationPage> {
         title: Text('Регистрация'),
         backgroundColor: Color(0xFFF5EDF7),
         foregroundColor: Colors.black,
-        elevation: 0,
+        elevation: 1,
         centerTitle: true,
       ),
       body: SingleChildScrollView(
